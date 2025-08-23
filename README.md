@@ -3,8 +3,8 @@
 </picture>
 
 ***
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManmohanSinghRaghav&label=Profile%20views&color=0e75b6&style=flat" alt=ManmohanSinghRaghav" /> </p>
 <div align="center">
-  
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,ts,mongodb,express,react,nodejs,django&perline=3)
 
   <img height="300" width="500" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.webp"  />
